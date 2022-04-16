@@ -296,3 +296,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform,go,visualstudiocode,goland,macos,linux,windows,vim,notepadpp,sublimetext
+
+*.lock.hcl
